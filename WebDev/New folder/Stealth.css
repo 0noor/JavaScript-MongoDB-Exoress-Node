@@ -1,0 +1,92 @@
+ body {
+   background-image: url("adrien-olichon-_GH9LwhlSO4-unsplash.jpg");
+   background-repeat: no-repeat;
+   margin: 0%;
+   padding: 0%;
+   display: flex;
+ }
+
+
+
+ #container {
+   position: fixed;
+   top: 40%;
+   left: 50%;
+   transform: translate(-40%, -50%);
+   width: 50%;
+   height: 50%;
+   background-image: url("d313a112b7ba03f5dc9ba8ebdae59942.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+
+ }
+
+ #here {
+   position: fixed;
+   top: 10%;
+   left: 10%;
+   /* transform: translate(-10%, -10%); */
+   width: 10%;
+   height: 10%;
+   background-image: url("steve-harvey-DoLPc45oEuo-unsplash.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: contain;
+   display: none;
+
+ }
+
+ #here2 {
+   position: fixed;
+   top: 10%;
+   left: 80%;
+   /* transform: translate(-10%, -90%); */
+   width: 10%;
+   height: 10%;
+   background-image: url("steve-harvey-DoLPc45oEuo-unsplash.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: contain;
+   display: none;
+
+ }
+
+ #here3 {
+   position: fixed;
+   top: 80%;
+   left: 10%;
+   /* transform: translate(-70%, -70%); */
+   width: 10%;
+   height: 10%;
+   background-image: url("steve-harvey-DoLPc45oEuo-unsplash.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: contain;
+   display: none;
+
+ }
+
+ #here4 {
+   position: fixed;
+   top: 80%;
+   left: 80%;
+   /* transform: translate(-40%, -90%); */
+   width: 10%;
+   height: 10%;
+   background-image: url("steve-harvey-DoLPc45oEuo-unsplash.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: contain;
+   display: none;
+
+ }
+
+ #text {
+   position: fixed;
+   color: red;
+   bottom: 30%;
+   left: 30%;
+   width: 50%;
+
+
+ }
