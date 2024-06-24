@@ -1,0 +1,45 @@
+#one {
+    background-color: #6420AA;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    margin-left: 50px;
+}
+
+
+
+#two {
+    background-color: #FF3EA5;
+    border-width: 3px;
+    border-color: seagreen;
+    border-style: dashed;
+    box-sizing: border-box;
+}
+
+
+
+#three {
+    background-color: #FF7ED4;
+    border: 4px solid salmon;
+    border-radius: 70%;
+    box-sizing: content-box;
+}
+
+
+
+p {
+    width: 200px;
+    height: 200px;
+    margin: 0;
+}
+
+h1 {
+    width: 100px;
+    background-color: pink;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
